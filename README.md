@@ -54,4 +54,5 @@ Import the provided `.sql` file into MySQL before running the project.
 Update database settings inside:
 
 ##Live Website
+
 studenttracker.fwh.is/electionsystem
