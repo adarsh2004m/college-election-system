@@ -56,3 +56,7 @@ Update database settings inside:
 ##Live Website
 
 https://studenttracker.fwh.is/electionsystem
+
+
+admin username - admin
+password       - admin123
