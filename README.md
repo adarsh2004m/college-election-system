@@ -55,4 +55,4 @@ Update database settings inside:
 
 ##Live Website
 
-studenttracker.fwh.is/electionsystem
+https://studenttracker.fwh.is/electionsystem
